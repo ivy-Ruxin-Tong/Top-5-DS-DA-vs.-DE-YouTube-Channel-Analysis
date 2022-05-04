@@ -10,7 +10,7 @@
 -  3 parameters
       -   users can select switch views by channel category (DE, DS/DA, All)
       -   users can select top youtube videos by commentcount/likecount/viewcount (using calculated field)
-      -   users can choose top # of Topics to display on the wordcloud
+      -   users can choose top # of Topics to display on the wordcloud by Data Channel
 
 Example:
 

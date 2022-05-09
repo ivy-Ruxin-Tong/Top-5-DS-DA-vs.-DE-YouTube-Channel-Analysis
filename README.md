@@ -16,6 +16,6 @@ Example:
 
 #<img width="889" alt="Screen Shot 2022-05-03 at 18 31 52" src="https://user-images.githubusercontent.com/46492171/166612178-4e46690a-e91a-4f39-9b13-324c712aa063.png">
 
-## Step 2: Set Trgigger to run the script weekly and retrieve new videos (Upsert in the database)
+## Step 2: Set Trgigger to run the script weekly and retrieve new videos (Upsert in the database) With AWS Lambda
 
 

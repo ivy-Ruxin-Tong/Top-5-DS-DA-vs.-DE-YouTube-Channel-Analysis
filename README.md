@@ -13,8 +13,10 @@
       -   users can choose top # of Topics to display on the wordcloud by Data Channel
 
 Example:
+<img width="1423" alt="Screen Shot 2022-05-09 at 17 47 33" src="https://user-images.githubusercontent.com/46492171/167520979-f535fb60-0ddd-4c62-8e4f-4edc38d6991c.png">
 
-#<img width="889" alt="Screen Shot 2022-05-03 at 18 31 52" src="https://user-images.githubusercontent.com/46492171/166612178-4e46690a-e91a-4f39-9b13-324c712aa063.png">
+
+
 
 ## Step 2: Set Trgigger to run the script weekly and retrieve new videos (Upsert in the database) With AWS Lambda
 

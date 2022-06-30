@@ -21,3 +21,4 @@ Example:
 ## Step 2: Set Trgigger to run the script weekly and retrieve new videos (Upsert in the database) With AWS Lambda
 
 
+![image](https://user-images.githubusercontent.com/46492171/176592318-5666914c-ae5a-4db7-821a-5301a4927139.png)

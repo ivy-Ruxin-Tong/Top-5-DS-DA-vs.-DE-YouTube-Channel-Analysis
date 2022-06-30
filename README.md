@@ -9,7 +9,7 @@
 
  - Details
       - Pull channel/playlist/video data using YouTube API
-      - Process/Clean Data
+      - Process/Clean Data including removing stop words
       - Store data into RDS - MySQL
 
 

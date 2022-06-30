@@ -18,6 +18,8 @@ Example:
 
 
 
-## Step 2: Schedule running the script weekly and retrieve new videos (Upsert in the database) With Databricks Job (cron schedule) 
+## Step 2: Schedule running the script weekly
+
+retrieve new videos (Upsert in the database) With Databricks Job (cron schedule) 
 
 <img width="767" alt="Screen Shot 2022-06-29 at 21 30 28" src="https://user-images.githubusercontent.com/46492171/176593103-4a3687cf-eb13-48dc-afd7-e11662b68159.png">

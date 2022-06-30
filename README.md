@@ -36,5 +36,5 @@ retrieve new videos (Upsert in the database) With Databricks Job (cron schedule)
 ## Step 3: Key findings
 * At a high level, DS/DA channels have more activties and subscribers than DE channels. Keywords in the DE channels include pipeline, spark, cloud, and so on, while DS/DA channels mention words like visualization, tableau, statistics. 
 
-* In the DS department, Tina Huang has the most subscribers 351K (at the time of writing). Her most popular video is "How I would learn to code if I could start over". 
-* In the DE department, E-Learning Bridge has the most subscribers 74.5K (at the time of writing). His most popular video is "Don't ever write python code like this". 
+   * In the DS department, Tina Huang has the most subscribers 351K (at the time of writing). Her most popular video is "How I would learn to code if I could start over". 
+   * In the DE department, E-Learning Bridge has the most subscribers 74.5K (at the time of writing). His most popular video is "Don't ever write python code like this". 

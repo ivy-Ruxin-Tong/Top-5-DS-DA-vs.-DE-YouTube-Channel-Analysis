@@ -1,10 +1,17 @@
 # Top 5 DS/DA vs DE YouTube Channel Analysis
 
 
-## Step 0 : Data Ingestion/Process/Storage (Databricks Notebook)
-- Pull channel/playlist/video data using YouTube API
-- Process/Clean Data
-- Store data into RDS - MySQL
+## Step 0 : Data Ingestion/Process/Storage
+
+- Tools
+      - Databricks notebook (download relevant libraries onto the cluster)
+
+- Details
+      - Pull channel/playlist/video data using YouTube API
+      - Process/Clean Data
+      - Store data into RDS - MySQL
+
+
 
 ## Step 1 : Visualization using QuickSight (scheduled to refresh weekly)
 -  3 parameters

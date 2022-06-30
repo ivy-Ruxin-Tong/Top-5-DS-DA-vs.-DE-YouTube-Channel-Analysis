@@ -1,4 +1,4 @@
-# Top 5 DS/DA vs DE YouTube Channel Analysis
+# Top 5 DS/DA vs DE YouTube Channels Analysis
 
 
 ## Step 0 : Data Ingestion/Process/Storage

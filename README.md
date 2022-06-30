@@ -3,10 +3,11 @@
 
 ## Step 0 : Data Ingestion/Process/Storage
 
-- Tools
+
+ - Tool
       - Databricks notebook (download relevant libraries onto the cluster)
 
-- Details
+ - Details
       - Pull channel/playlist/video data using YouTube API
       - Process/Clean Data
       - Store data into RDS - MySQL
